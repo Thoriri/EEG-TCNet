@@ -1,2 +1,2 @@
 # EEG-TCNet
-Code for SMC paper
+Please navigate to [here!](https://github.com/iis-eth-zurich/eeg-tcnet) for the code and models.
